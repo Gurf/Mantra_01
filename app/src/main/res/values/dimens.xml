@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="my_margin">500dp</dimen>
+    <dimen name="my_margin_landscape">250dp</dimen>
+    <dimen name="pucture_top">60dp</dimen>
+    <dimen name="pucture_left_landscape">15dp</dimen>
+</resources>
